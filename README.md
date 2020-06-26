@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e7d33dd6-8b81-42fe-a535-88a534f5696d/deploy-status)](https://app.netlify.com/sites/tender-hamilton-4535b4/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
